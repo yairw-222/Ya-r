@@ -1,6 +1,6 @@
-<mxfile type="github" version="12.1.9" host="www.draw.io" modified="2019-10-31T20:38:37.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="DBSG7_6p6f3sVNSbG9NS" pages="1">
+<mxfile type="github" version="12.1.9" host="www.draw.io" modified="2019-10-31T21:27:09.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="6h7eD-Nj3eqtLHLsMxlP" pages="1">
   <diagram id="vj4ePUozkiGNs5JIsZxm" name="Page-1">
-    <mxGraphModel grid="1" dx="934" dy="781" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" dx="1759" dy="813" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -61,8 +61,8 @@
             <mxPoint as="targetPoint" x="413" y="510"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0mmgdjVj_neRBexLbKPG-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Definieer een functie om de tekst te refreshen zodra het is bekeken is en er een keuze is gemaakt dat de balk weer leeg is" parent="1" vertex="1">
-          <mxGeometry width="120" as="geometry" x="353" y="510" height="110"/>
+        <mxCell id="0mmgdjVj_neRBexLbKPG-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Definieer een functie die de tekst te weergeeft .Zodra het is bekeken is en er een keuze is gemaakt dan komt de volgende tweet weer tevoorschijn." parent="1" vertex="1">
+          <mxGeometry width="120" as="geometry" x="353" y="490" height="130"/>
         </mxCell>
         <mxCell id="0mmgdjVj_neRBexLbKPG-15" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0mmgdjVj_neRBexLbKPG-17" value="" parent="1" edge="1" source="0mmgdjVj_neRBexLbKPG-13">
           <mxGeometry width="50" as="geometry" height="50" relative="1">
@@ -91,11 +91,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0mmgdjVj_neRBexLbKPG-20" style="rounded=0;whiteSpace=wrap;html=1;" value="De accept functie moet de tweet laten plaatsen. Dit doet hij door hem te door hem erin te zetten en dan" parent="1" vertex="1">
-          <mxGeometry width="120" as="geometry" x="60" y="900" height="60"/>
+        <mxCell id="0mmgdjVj_neRBexLbKPG-20" style="rounded=0;whiteSpace=wrap;html=1;" value="De accept functie leest het gepresenteerd bericht en zet het in een lijst vervolgens in de file teruggeschreven.&lt;br&gt;Als dit alles is gebeurd wordt er geprint dat de file leeg is." parent="1" vertex="1">
+          <mxGeometry width="120" as="geometry" x="60" y="900" height="160"/>
         </mxCell>
-        <mxCell id="0mmgdjVj_neRBexLbKPG-21" style="rounded=0;whiteSpace=wrap;html=1;" value="" parent="1" vertex="1">
-          <mxGeometry width="120" as="geometry" x="640" y="900" height="60"/>
+        <mxCell id="0mmgdjVj_neRBexLbKPG-21" style="rounded=0;whiteSpace=wrap;html=1;" value="De reject button haalt het gepresenteerd bericht uit de&amp;nbsp; file en verwijdert hem. Daarna print hij dat de file leeg is" parent="1" vertex="1">
+          <mxGeometry width="120" as="geometry" x="640" y="900" height="140"/>
+        </mxCell>
+        <mxCell id="0mmgdjVj_neRBexLbKPG-22" style="rounded=0;whiteSpace=wrap;html=1;" value="" parent="1" vertex="1">
+          <mxGeometry width="120" as="geometry" x="60" y="1080" height="60"/>
+        </mxCell>
+        <mxCell id="0mmgdjVj_neRBexLbKPG-23" style="rounded=0;whiteSpace=wrap;html=1;" value="" parent="1" vertex="1">
+          <mxGeometry width="120" as="geometry" x="60" y="1160" height="60"/>
+        </mxCell>
+        <mxCell id="0mmgdjVj_neRBexLbKPG-24" style="rounded=0;whiteSpace=wrap;html=1;" value="" parent="1" vertex="1">
+          <mxGeometry width="120" as="geometry" x="60" y="1240" height="60"/>
+        </mxCell>
+        <mxCell id="0mmgdjVj_neRBexLbKPG-25" style="rounded=0;whiteSpace=wrap;html=1;" value="" parent="1" vertex="1">
+          <mxGeometry width="120" as="geometry" x="60" y="1320" height="60"/>
         </mxCell>
       </root>
     </mxGraphModel>
