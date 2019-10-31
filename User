@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.9" host="www.draw.io" modified="2019-10-31T21:27:09.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="6h7eD-Nj3eqtLHLsMxlP" pages="1">
+<mxfile type="github" version="12.1.9" host="www.draw.io" modified="2019-10-31T21:41:21.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="iFJIow2HkhizTiU-sld1" pages="1">
   <diagram id="vj4ePUozkiGNs5JIsZxm" name="Page-1">
     <mxGraphModel grid="1" dx="1759" dy="813" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,18 +96,6 @@
         </mxCell>
         <mxCell id="0mmgdjVj_neRBexLbKPG-21" style="rounded=0;whiteSpace=wrap;html=1;" value="De reject button haalt het gepresenteerd bericht uit de&amp;nbsp; file en verwijdert hem. Daarna print hij dat de file leeg is" parent="1" vertex="1">
           <mxGeometry width="120" as="geometry" x="640" y="900" height="140"/>
-        </mxCell>
-        <mxCell id="0mmgdjVj_neRBexLbKPG-22" style="rounded=0;whiteSpace=wrap;html=1;" value="" parent="1" vertex="1">
-          <mxGeometry width="120" as="geometry" x="60" y="1080" height="60"/>
-        </mxCell>
-        <mxCell id="0mmgdjVj_neRBexLbKPG-23" style="rounded=0;whiteSpace=wrap;html=1;" value="" parent="1" vertex="1">
-          <mxGeometry width="120" as="geometry" x="60" y="1160" height="60"/>
-        </mxCell>
-        <mxCell id="0mmgdjVj_neRBexLbKPG-24" style="rounded=0;whiteSpace=wrap;html=1;" value="" parent="1" vertex="1">
-          <mxGeometry width="120" as="geometry" x="60" y="1240" height="60"/>
-        </mxCell>
-        <mxCell id="0mmgdjVj_neRBexLbKPG-25" style="rounded=0;whiteSpace=wrap;html=1;" value="" parent="1" vertex="1">
-          <mxGeometry width="120" as="geometry" x="60" y="1320" height="60"/>
         </mxCell>
       </root>
     </mxGraphModel>
