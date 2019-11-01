@@ -1,6 +1,6 @@
-<mxfile type="github" version="12.1.9" pages="1" etag="_931qwHEy8WkIqRfZt-M" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-10-31T21:52:46.328Z" host="www.draw.io">
+<mxfile type="github" version="12.1.9" pages="1" etag="cCAvfJ1--7pHDkEpV0qs" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-11-01T04:10:06.566Z" host="www.draw.io">
   <diagram id="Htczt1RavAQ6boFkdHNt" name="Page-1">
-    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="813" dx="1536">
+    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="1626" dx="3072">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -79,8 +79,8 @@
             <mxPoint as="targetPoint" x="90" y="690"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Df3EplEFWCHqkdpquF4p-17" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Geef de functie van het frame aan een variabele zodat het makkelijk op te roepen is&lt;/font&gt;" parent="1" vertex="1">
-          <mxGeometry width="120" as="geometry" height="60" x="20" y="610"/>
+        <mxCell id="Df3EplEFWCHqkdpquF4p-17" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Geef de functie van het frame aan een variabele zodat het makkelijk op te roepen is. In ons geval is het root&lt;/font&gt;" parent="1" vertex="1">
+          <mxGeometry width="120" as="geometry" height="80" x="20" y="590"/>
         </mxCell>
         <mxCell id="Df3EplEFWCHqkdpquF4p-18" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Vervolgens kan je door middel van het Canvas-widget het grafische gedeelte van je applicatie aanpassen. Om dit makkelijker te maken ken je dit ook toe aan een variabele en zet je de Reliable width en height op de gewenste plek&lt;/font&gt;" parent="1" vertex="1">
           <mxGeometry width="120" as="geometry" height="140" x="20" y="750"/>
@@ -196,7 +196,7 @@
             <mxPoint as="targetPoint" x="60" y="1280"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Df3EplEFWCHqkdpquF4p-47" style="rounded=0;whiteSpace=wrap;html=1;" value="Als alles op elkaar heb je een goed uitziend en werken tabblad waar de gebruiker zijn tweets kan plaatsen" parent="1" vertex="1">
+        <mxCell id="Df3EplEFWCHqkdpquF4p-47" style="rounded=0;whiteSpace=wrap;html=1;" value="Als alles op elkaar heb je een goed uitziend en werkend tabblad waar de gebruiker zijn tweets kan plaatsen" parent="1" vertex="1">
           <mxGeometry width="120" as="geometry" height="100" x="353" y="1060"/>
         </mxCell>
         <mxCell id="474f1slIvcfBxBlu9twm-1" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="474f1slIvcfBxBlu9twm-2" value="" parent="1" source="474f1slIvcfBxBlu9twm-3" edge="1">
